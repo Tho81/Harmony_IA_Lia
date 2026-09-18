@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use or discuss this public technical proposal, please cite it as below."
+title: "HARMONY IA LÍA — Public Technical Proposal for Human-Compatible Humanoid Physical Embodiment, 2032–2035"
+type: dataset
+authors:
+  - family-names: "Rivera Torrez"
+    given-names: "Nelson Marcial"
+version: "1.1-public"
+date-released: "2026-09-18"
+url: "https://harmonyialia.com/"
+license: "CC-BY-SA-4.0"
+keywords:
+  - humanoid robotics
+  - embodied AI
+  - electronic skin
+  - tactile sensing
+  - proprioception
+  - compliant actuation
+  - dexterous manipulation
+  - human-robot interaction
