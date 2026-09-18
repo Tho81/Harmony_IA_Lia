@@ -1,0 +1,24 @@
+# HARMONY IA LÍA — public research index
+
+> Public technical proposal for a human-compatible humanoid physical embodiment, design horizon 2032–2035.
+
+Primary thesis: the main opportunity is integration of existing or emerging capabilities across lightweight structure, compliant actuation, proprioception, multimodal electronic skin, tactile manipulation, expressive HRI and safety-gated high-level AI interfaces.
+
+Public pages/files:
+- README.md — project thesis and scope
+- docs/01_DESIGN_THESIS.md — physical design thesis
+- docs/02_CONVERGENCE_MAP.md — independent technology references
+- docs/03_FIVE_LAYER_SENSORIMOTOR_ENVELOPE.md — five-layer body/skin concept
+- docs/04_MATERIALS_ACTUATION_CONTROL.md — materials and control relationships
+- docs/05_PROPRIOCEPTION_TACTILE_HRI.md — sensory fusion and social interaction
+- docs/06_AI_ROBOT_INTERFACE.md — safe high-level AI interface proposal
+- docs/07_SAFETY_INTEROPERABILITY.md — safety boundaries
+- docs/08_SOURCES.md — primary and academic sources
+- docs/10_COMPUTE_MEMORY_STORAGE.md — proposed onboard compute, RAM, NVMe, real-time and safety domains
+- PUBLIC_PRIVATE_BOUNDARY.md — disclosure limits
+- LICENSE.md — CC BY-SA documentation license + exclusions
+
+Private software, memory, prompts, datasets, internal repositories and proprietary implementation details are not part of this public artifact and have no public access path from this repository.
+
+Canonical website: https://harmonyialia.com/
+Author: Dr. Nelson Marcial Rivera Torrez
