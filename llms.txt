@@ -16,6 +16,7 @@ Public pages/files:
 - docs/08_SOURCES.md — primary and academic sources
 - docs/10_COMPUTE_MEMORY_STORAGE.md — proposed onboard compute, RAM, NVMe, real-time and safety domains
 - docs/11_TECH_WATCH_SENSOR_SKIN_2026.md — 2025–2026 convergence: neuromorphic e-skin, whole-body tactile sensing, local reflexes, damage perception and distributed tactile computing
+- docs/11_TECH_WATCH_SENSOR_SKIN_2026.en.md — English edition of the 2026 sensorized robotic-skin technology watch
 - PUBLIC_PRIVATE_BOUNDARY.md — disclosure limits
 - LICENSE.md — CC BY-SA documentation license + exclusions
 
