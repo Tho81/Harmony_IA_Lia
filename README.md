@@ -71,6 +71,12 @@ Este repositorio usa productos y compañías únicamente como **referencias púb
 
 Ver: [Mapa de convergencia](docs/02_CONVERGENCE_MAP.md).
 
+### Technology Watch 2026 · piel sensorizada y tacto neuromórfico
+
+La literatura 2025–2026 está convergiendo hacia una piel robótica de gran superficie que combina **tacto multimodal, reflejos locales, razonamiento semántico, propiocepción, diagnóstico de daño, tolerancia a fallos y procesamiento distribuido**. Un nuevo informe público resume esta convergencia y formula un desafío de integración para el horizonte 2032–2035.
+
+Ver: [Technology Watch 2026 · La piel robótica deja de ser una carcasa](docs/11_TECH_WATCH_SENSOR_SKIN_2026.md).
+
 ### Cómputo, memoria y almacenamiento
 
 El cuerpo necesita también una infraestructura computacional proporcional a sus sensores y a la carga cognitiva. Como referencia pública de diseño proponemos **64 GB de RAM como mínimo práctico, 128 GB como baseline recomendado y 128–256 GB+ como margen futuro**, junto con **2 TB NVMe como mínimo y 4 TB recomendados**, ampliables a 8 TB+ en plataformas de I+D. El almacenamiento debe ser SSD NVMe, cifrado y con recuperación A/B. El control motor y de seguridad debe vivir en un dominio determinista separado del computador de IA.
