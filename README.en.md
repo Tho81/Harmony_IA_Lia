@@ -37,3 +37,10 @@ Preferred citation:
 > Rivera Torrez, Nelson Marcial (2026). *HARMONY IA LÍA — Public Technical Proposal for Human-Compatible Humanoid Physical Embodiment, 2032–2035*. HARMONY IA LÍA.
 
 Website: https://harmonyialia.com/
+
+
+## Technology Watch 2026 · sensorized robotic skin
+
+Recent 2025–2026 literature is converging on large-area robotic skin that combines multimodal touch, local reflexes, semantic reasoning, proprioception, damage awareness, fault tolerance and distributed tactile processing.
+
+Read: [Technology Watch 2026 · Robotic skin is becoming a nervous system](docs/11_TECH_WATCH_SENSOR_SKIN_2026.en.md).
