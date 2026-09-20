@@ -48,3 +48,47 @@
 ## Source discipline
 
 Third-party capabilities must be described from primary documentation or clearly identified literature. Product names are used for technical comparison only. This repository does not claim access to proprietary implementations of any referenced organization.
+
+## 2025–2026 electronic-skin convergence references
+
+12. **Gao, Y. et al. — A neuromorphic robotic electronic skin with active pain and injury perception** (PNAS, 2025).  
+    https://doi.org/10.1073/pnas.2520922122  
+    Neuromorphic tactile encoding, local protective reflexes, injury localization and modular replacement.
+
+13. **Sun, H. et al. — A spike–language dual framework bridges fast perception and deep reasoning in artificial tactile somatosensory systems** (Nature Sensors, 2026).  
+    https://doi.org/10.1038/s44460-026-00108-1  
+    Dual-path tactile architecture combining fast spike-based perception with semantic reasoning and confidence-based routing.
+
+14. **Tang, Y. et al. — Embodied sensorimotor integration for whole-arm tactile sensing and adaptive robotic manipulation** (Nature Sensors, 2026).  
+    https://doi.org/10.1038/s44460-026-00097-1  
+    Large-area soft tactile skin fused with proprioception and closed-loop trajectory adaptation.
+
+15. **Li, S. et al. — Biomimetic multimodal tactile sensing enables human-like robotic perception** (Nature Sensors, 2026).  
+    https://doi.org/10.1038/s44460-025-00006-y  
+    Multimodal sensing of force, position, temperature, proximity and vibration with tactile-language interpretation.
+
+16. **Xu, Q. et al. — A bio-inspired origami capacitive robotic e-skin with multimodal sensing capabilities** (npj Flexible Electronics, 2026).  
+    https://doi.org/10.1038/s41528-026-00563-3  
+    Large-area e-skin, shear/proximity sensing and super-resolution strategies for reducing wiring complexity.
+
+17. **Lee, S. & Hughes, J. — A Multimodal, Multicontact, and Scalable Soft Robot Skin Enabled by Layered Structures** (Soft Robotics, 2026).  
+    https://doi.org/10.1177/21695172261485887  
+    Scalable layered sensing of normal/shear interaction and multicontact localization.
+
+18. **Ozaki, T., Ohta, N. & Fujiyoshi, M. — Self-rerouting sensor network for electronic skin resilient to severe damage** (Nature Communications, 2025).  
+    https://doi.org/10.1038/s41467-025-56596-1  
+    Fault-tolerant sensor-network architecture for e-skin after severe damage.
+
+19. **A damage-perceptive, self-healing electronic skin with millimeter resolution** (Device, 2025).  
+    https://doi.org/10.1016/j.device.2025.100802  
+    Damage localization and functional self-healing in multilayer soft electronics.
+
+20. **Massively parallel in-sensor skinomorphic computing** (Nature Communications, 2026).  
+    https://doi.org/10.1038/s41467-026-71697-1  
+    In-sensor processing and compression of tactile information for high-throughput intelligent skins.
+
+21. **Gizmodo en Español — divulgación de NRE-skin y percepción de daño** (19 Sep 2026).  
+    https://es.gizmodo.com/pasamos-siglos-intentando-que-las-maquinas-no-se-rompan-ahora-les-estamos-ensenando-a-sentir-dolor-cuando-se-rompen-reaccionar-como-si-tuvieran-cuerpo-propio-2000214322  
+    Secondary source; the underlying PNAS research is reference 12 above.
+
+See also: [Technology Watch 2026 · Sensorized robotic skin](11_TECH_WATCH_SENSOR_SKIN_2026.md).
