@@ -1,8 +1,8 @@
 {
   "project": "HARMONY IA LÍA",
   "artifact": "Public Physical Embodiment Proposal",
-  "version": "1.1-public",
-  "date": "2026-09-18",
+  "version": "1.2-public",
+  "date": "2026-09-20",
   "design_horizon": "2032-2035",
   "public_scope": [
     "humanoid physical embodiment",
@@ -17,7 +17,9 @@
     "onboard AI compute",
     "memory architecture",
     "NVMe storage",
-    "real-time safety compute"
+    "real-time safety compute",
+    "neuromorphic tactile sensing",
+    "robotic self-damage perception"
   ],
   "excluded_scope": [
     "private software",
@@ -45,10 +47,17 @@
     "edge AI",
     "Jetson Thor",
     "NVMe",
-    "real-time control"
+    "real-time control",
+    "neuromorphic tactile sensing",
+    "robotic skin",
+    "whole-body tactile sensing",
+    "robotic reflexes",
+    "self-damage detection",
+    "skinomorphic computing"
   ],
   "website": "https://harmonyialia.com/",
   "license_documentation": "CC BY-SA 4.0",
   "brand_license": "reserved",
-  "affiliations_claimed": []
+  "affiliations_claimed": [],
+  "featured_public_note": "docs/11_TECH_WATCH_SENSOR_SKIN_2026.md"
 }
