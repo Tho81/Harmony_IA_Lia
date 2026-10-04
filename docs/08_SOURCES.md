@@ -92,3 +92,106 @@ Third-party capabilities must be described from primary documentation or clearly
     Secondary source; the underlying PNAS research is reference 12 above.
 
 See also: [Technology Watch 2026 · Sensorized robotic skin](11_TECH_WATCH_SENSOR_SKIN_2026.md).
+
+## Adaptive Palm / dexterous-hand references
+
+22. **Pozzi, M., Malvezzi, M., Prattichizzo, D., Salvietti, G. — Actuated Palms for Soft Robotic Hands: Review and Perspectives** (IEEE/ASME Transactions on Mechatronics, 2023).  
+    https://doi.org/10.1109/TMECH.2023.3328944  
+    Review of active/reconfigurable palm mechanisms and their role in robotic manipulation.
+
+23. **Chang, I., Lee, K.-M., Liu, Y. — Design concept and kinematic analysis of a compliant anatomical palm mechanism for bio-inspired robotic hand design** (International Journal of Intelligent Robotics and Applications, 2025).  
+    https://doi.org/10.1007/s41315-024-00415-1  
+    Compliant anatomical palm mechanism, kinematic analysis, experiments and finite-element analysis.
+
+24. **Lu, Q., Zou, J., Gan, Z. — The Folding Hand: Anthropomorphic Robotic Hands With a Compact Reconfigurable Humanoid Palm Design** (IEEE Robotics and Automation Letters, 2025).  
+    https://doi.org/10.1109/LRA.2025.3597487  
+    Compact reconfigurable palm with low actuation count and underactuated tendon-driven fingers.
+
+25. **Zhang, N., Ren, J., Dong, Y. et al. — Soft robotic hand with tactile palm-finger coordination** (Nature Communications, 2025).  
+    https://doi.org/10.1038/s41467-025-57741-6  
+    High-density tactile palm integrated with soft fingers for palm-finger coordination.
+
+26. **Zhao, Z., Li, W., Li, Y. et al. — Embedding high-resolution touch across robotic hands enables adaptive human-like grasping** (Nature Machine Intelligence, 2025).  
+    https://doi.org/10.1038/s42256-025-01053-3  
+    F-TAC Hand: high-resolution tactile coverage, adaptive grasping and large real-world evaluation.
+
+27. **Junge, K., Hughes, J. — ADAPT-Teleop: robotic hand with human matched embodiment enables dexterous teleoperated manipulation** (npj Robotics, 2025).  
+    https://doi.org/10.1038/s44182-025-00034-3  
+    Human-matched embodiment and dexterous teleoperation.
+
+28. **Spatially distributed biomimetic compliance enables robust anthropomorphic robotic manipulation** (Communications Engineering, 2025).  
+    https://doi.org/10.1038/s44172-025-00407-4  
+    Distributed compliance across a human-inspired robotic hand.
+
+29. **Lee, J., Han, J., Kim, D., Jeong, S. — RIM Hand: A Robotic Hand with an Accurate Carpometacarpal Joint and Nitinol-Supported Skeletal Structure** (Soft Robotics, 2026).  
+    https://doi.org/10.1177/21695172261423503  
+    CMC-inspired structure, superelastic skeleton, deformable palm and increased contact/load capability.
+
+30. **Zhou, Y., Lee, W. S., Gu, Y. et al. — Tactile-reactive gripper with an active palm for dexterous manipulation** (npj Robotics, 2026).  
+    https://doi.org/10.1038/s44182-026-00079-y  
+    Active tactile palm used for contact-area control, grasping and in-hand manipulation.
+
+31. **Li, K., Meng, F., Liu, L. et al. — Design and evaluation of a tendon-and-linkage hybrid-driven humanoid dexterous hand** (Scientific Reports, 2026).  
+    https://doi.org/10.1038/s41598-026-63917-x  
+    Hybrid transmission, active/passive DoF, sensing and anthropomorphic grasp evaluation.
+
+32. **Fabisch, A., Zai El Amri, W., Singh, C. et al. — Do Robots Really Need Anthropomorphic Hands? A Comparison of Human and Robotic Hands** (Journal of Intelligent & Robotic Systems, 2026).  
+    https://doi.org/10.1007/s10846-026-02431-8  
+    Systematic review comparing morphology, complexity, sensing and task repertoire.
+
+33. **Gossen, D. et al. — The Library of Approaches: A systematic mapping of approaches for the mechanical design of tendon-driven, rigid-sequential anthropomorphic robot hands** (Mechanism and Machine Theory, 2025).  
+    https://doi.org/10.1016/j.mechmachtheory.2025.106257  
+    Systematic mapping of mechanical design approaches for tendon-driven anthropomorphic hands.
+
+34. **Salvietti, G. — Replicating Human Hand Synergies Onto Robotic Hands: A Review on Software and Hardware Strategies** (Frontiers in Neurorobotics, 2018).  
+    https://doi.org/10.3389/fnbot.2018.00027
+
+35. **Santello, M. et al. — Hand synergies: Integration of robotics and neuroscience for understanding the control of biological and artificial hands** (Physics of Life Reviews, 2016).  
+    https://doi.org/10.1016/j.plrev.2016.02.001
+
+36. **Nanayakkara, V. K. et al. — The Role of Morphology of the Thumb in Anthropomorphic Grasping: A Review** (Frontiers in Mechanical Engineering, 2017).  
+    https://doi.org/10.3389/fmech.2017.00005
+
+37. **Nichols, D. S., Oberhofer, H. M., Chim, H. — Anatomy and Biomechanics of the Thumb Carpometacarpal Joint** (Hand Clinics, 2022).  
+    https://doi.org/10.1016/j.hcl.2021.11.001
+
+38. **Liarokapis, M. et al. — Anthropomorphic Hand Assessment Protocol (AHAP)** (Robotics and Autonomous Systems, 2019).  
+    https://doi.org/10.1016/j.robot.2019.03.008  
+    Reproducible assessment protocol for anthropomorphic grasp capability.
+
+39. **Liconti, D., Zhou, Y., Toshimitsu, Y., Hinchet, R., Katzschmann, R. K. — A Benchmark of Dexterity for Anthropomorphic Robotic Hands (POMDAR)** (2026).  
+    https://arxiv.org/abs/2604.09294  
+    Open task-oriented dexterity benchmark; preprint status should be retained when cited.
+
+## Adaptive Palm industrial / standards references
+
+40. **Unitree Robotics — Dex3-1 Dexterous Hand**.  
+    https://www.unitree.com/Dex3-1/  
+    Public specifications for force-position control, tactile sensing and high-rate communication.
+
+41. **Shadow Robot Company — Dexterous Hand Series**.  
+    https://shadowrobot.com/dexterous-hand-series/  
+    Public tendon-driven hand, sensor and ROS ecosystem specifications.
+
+42. **Inspire Robots — RH56F1 Dexterous Hand**.  
+    https://en.inspire-robots.com/product/rh56f1/  
+    Public specifications for five-finger actuation, tactile options and industrial communication buses.
+
+43. **DexRobot — DexHand021 Concept**.  
+    https://www.dex-robot.com/en/dexhand  
+    Public modular dexterous-hand concept and interoperability claims.
+
+44. **LimX Dynamics — Oli full-size general humanoid**.  
+    https://www.limxdynamics.com/en/products/oli/spec  
+    Public humanoid specifications including interchangeable end-effectors / five-finger hand option.
+
+45. **Schaeffler AG — Humanoids at Schaeffler** (2026).  
+    https://www.schaeffler.com/remotemedien/media/_shared_media_rwd/08_investor_relations/presentations/20260205_humanoids_at_schaeffler.pdf  
+    Public technology/investor presentation discussing humanoid component architecture and dexterous-hand BOM relevance.
+
+46. **ISO/FDIS 13482 — Robotics — Safety requirements for service robots** (2026 approval stage).  
+    https://www.iso.org/standard/83498.html  
+    Emerging second edition covering service-robot safety, including physical human–robot interaction. Verify final publication status before normative use.
+
+See also: [Adaptive Palm 2032–2035](12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md).
+
