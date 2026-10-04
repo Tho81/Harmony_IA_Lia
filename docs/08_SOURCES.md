@@ -156,40 +156,44 @@ See also: [Technology Watch 2026 · Sensorized robotic skin](11_TECH_WATCH_SENSO
     https://doi.org/10.1016/j.hcl.2021.11.001
 
 38. **Liarokapis, M. et al. — Anthropomorphic Hand Assessment Protocol (AHAP)** (Robotics and Autonomous Systems, 2019).  
-    https://doi.org/10.1016/j.robot.2019.03.008  
+    https://doi.org/10.1016/j.robot.2019.103259  
     Reproducible assessment protocol for anthropomorphic grasp capability.
 
 39. **Liconti, D., Zhou, Y., Toshimitsu, Y., Hinchet, R., Katzschmann, R. K. — A Benchmark of Dexterity for Anthropomorphic Robotic Hands (POMDAR)** (2026).  
     https://arxiv.org/abs/2604.09294  
     Open task-oriented dexterity benchmark; preprint status should be retained when cited.
 
+40. **Richardson, B. A., Grüninger, F., Mack, L., Stueckler, J., Kuchenbecker, K. J. — ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm** (Humanoids 2025 / arXiv:2509.26236).  
+    https://arxiv.org/abs/2509.26236  
+    Open-source articulated-palm hand; reinforcement-learning cube reorientation includes direct comparison against its fixed-palm variant.
+
 ## Adaptive Palm industrial / standards references
 
-40. **Unitree Robotics — Dex3-1 Dexterous Hand**.  
+41. **Unitree Robotics — Dex3-1 Dexterous Hand**.  
     https://www.unitree.com/Dex3-1/  
     Public specifications for force-position control, tactile sensing and high-rate communication.
 
-41. **Shadow Robot Company — Dexterous Hand Series**.  
+42. **Shadow Robot Company — Dexterous Hand Series**.  
     https://shadowrobot.com/dexterous-hand-series/  
     Public tendon-driven hand, sensor and ROS ecosystem specifications.
 
-42. **Inspire Robots — RH56F1 Dexterous Hand**.  
+43. **Inspire Robots — RH56F1 Dexterous Hand**.  
     https://en.inspire-robots.com/product/rh56f1/  
     Public specifications for five-finger actuation, tactile options and industrial communication buses.
 
-43. **DexRobot — DexHand021 Concept**.  
+44. **DexRobot — DexHand021 Concept**.  
     https://www.dex-robot.com/en/dexhand  
     Public modular dexterous-hand concept and interoperability claims.
 
-44. **LimX Dynamics — Oli full-size general humanoid**.  
+45. **LimX Dynamics — Oli full-size general humanoid**.  
     https://www.limxdynamics.com/en/products/oli/spec  
     Public humanoid specifications including interchangeable end-effectors / five-finger hand option.
 
-45. **Schaeffler AG — Humanoids at Schaeffler** (2026).  
+46. **Schaeffler AG — Humanoids at Schaeffler** (2026).  
     https://www.schaeffler.com/remotemedien/media/_shared_media_rwd/08_investor_relations/presentations/20260205_humanoids_at_schaeffler.pdf  
     Public technology/investor presentation discussing humanoid component architecture and dexterous-hand BOM relevance.
 
-46. **ISO/FDIS 13482 — Robotics — Safety requirements for service robots** (2026 approval stage).  
+47. **ISO/FDIS 13482 — Robotics — Safety requirements for service robots** (2026 approval stage).  
     https://www.iso.org/standard/83498.html  
     Emerging second edition covering service-robot safety, including physical human–robot interaction. Verify final publication status before normative use.
 
