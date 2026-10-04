@@ -1119,7 +1119,7 @@ Es construir una **mano sensoriomotora completa**.
 
 17. Falco, J. et al. (2020). *Benchmarking protocols for evaluating grasp strength, grasp cycle time, finger strength, and finger repeatability of robot end-effectors*. IEEE Robotics and Automation Letters, 5, 644–651.
 
-18. Liarokapis, M. et al. (2019). *The Anthropomorphic Hand Assessment Protocol (AHAP)*. Robotics and Autonomous Systems. DOI: https://doi.org/10.1016/j.robot.2019.03.008
+18. Liarokapis, M. et al. (2019). *The Anthropomorphic Hand Assessment Protocol (AHAP)*. Robotics and Autonomous Systems. DOI: https://doi.org/10.1016/j.robot.2019.103259
 
 19. Liconti, D., Zhou, Y., Toshimitsu, Y., Hinchet, R., Katzschmann, R. K. (2026). *A Benchmark of Dexterity for Anthropomorphic Robotic Hands (POMDAR)*. arXiv:2604.09294. https://arxiv.org/abs/2604.09294
 
@@ -1136,6 +1136,8 @@ Es construir una **mano sensoriomotora completa**.
 24. DexRobot. *DexHand021 Concept*. https://www.dex-robot.com/en/dexhand
 
 25. LimX Dynamics. *Oli Full-Size General Humanoid — specifications*. https://www.limxdynamics.com/en/products/oli/spec
+
+27. Richardson, B. A., Grüninger, F., Mack, L., Stueckler, J., Kuchenbecker, K. J. (2025). *ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm*. Humanoids 2025 / arXiv:2509.26236. https://arxiv.org/abs/2509.26236
 
 26. Schaeffler AG (2026). *Humanoids at Schaeffler*. Public investor/technology presentation. https://www.schaeffler.com/remotemedien/media/_shared_media_rwd/08_investor_relations/presentations/20260205_humanoids_at_schaeffler.pdf
 
