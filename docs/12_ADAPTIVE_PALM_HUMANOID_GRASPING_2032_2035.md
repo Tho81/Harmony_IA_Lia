@@ -8,6 +8,8 @@
 **Ámbito:** robótica humanoide · embodied AI · mano antropomórfica · palma activa · tacto distribuido · manipulación diestra · HRI · seguridad física  
 **Estado:** propuesta técnica pública, no especificación de producto ni divulgación de software privado.
 
+**Cita sugerida:** Rivera Torrez, Nelson Marcial (2026). *Adaptive Palm 2032–2035: Palma reconfigurable, táctil y compliant para una mano humanoide compatible con personas*. HARMONY IA LÍA, Artículo Público de Investigación 02.
+
 > **Tesis central:** una mano humanoide avanzada no debería tratar la palma como un soporte rígido para dedos cada vez más complejos. La palma debe convertirse en un subsistema sensoriomotor activo: estructuralmente estable donde carga, compliant donde contacta, reconfigurable donde mejora la geometría de agarre, y sensorizada en las regiones que determinan estabilidad, deslizamiento y reparto de presión.
 
 ---
@@ -1123,24 +1125,23 @@ Es construir una **mano sensoriomotora completa**.
 
 19. Liconti, D., Zhou, Y., Toshimitsu, Y., Hinchet, R., Katzschmann, R. K. (2026). *A Benchmark of Dexterity for Anthropomorphic Robotic Hands (POMDAR)*. arXiv:2604.09294. https://arxiv.org/abs/2604.09294
 
-20. ISO (2014/2026). *ISO 13482:2014 — Safety requirements for personal care robots*; replacement under approval as *ISO/FDIS 13482 — Robotics — Safety requirements for service robots*. https://www.iso.org/standard/83498.html
+20. Richardson, B. A., Grüninger, F., Mack, L., Stueckler, J., Kuchenbecker, K. J. (2025). *ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm*. Humanoids 2025 / arXiv:2509.26236. https://arxiv.org/abs/2509.26236
+
+21. ISO (2014/2026). *ISO 13482:2014 — Safety requirements for personal care robots*; replacement under approval as *ISO/FDIS 13482 — Robotics — Safety requirements for service robots*. https://www.iso.org/standard/83498.html
 
 ### Referencias industriales públicas
 
-21. Unitree Robotics. *Dex3-1 Dexterous Hand*. https://www.unitree.com/Dex3-1/
+22. Unitree Robotics. *Dex3-1 Dexterous Hand*. https://www.unitree.com/Dex3-1/
 
-22. Shadow Robot Company. *Dexterous Hand Series* and tactile sensing specifications. https://shadowrobot.com/dexterous-hand-series/
+23. Shadow Robot Company. *Dexterous Hand Series* and tactile sensing specifications. https://shadowrobot.com/dexterous-hand-series/
 
-23. Inspire Robots. *RH56F1 Dexterous Hand*. https://en.inspire-robots.com/product/rh56f1/
+24. Inspire Robots. *RH56F1 Dexterous Hand*. https://en.inspire-robots.com/product/rh56f1/
 
-24. DexRobot. *DexHand021 Concept*. https://www.dex-robot.com/en/dexhand
+25. DexRobot. *DexHand021 Concept*. https://www.dex-robot.com/en/dexhand
 
-25. LimX Dynamics. *Oli Full-Size General Humanoid — specifications*. https://www.limxdynamics.com/en/products/oli/spec
+26. LimX Dynamics. *Oli Full-Size General Humanoid — specifications*. https://www.limxdynamics.com/en/products/oli/spec
 
-27. Richardson, B. A., Grüninger, F., Mack, L., Stueckler, J., Kuchenbecker, K. J. (2025). *ISyHand: A Dexterous Multi-finger Robot Hand with an Articulated Palm*. Humanoids 2025 / arXiv:2509.26236. https://arxiv.org/abs/2509.26236
-
-26. Schaeffler AG (2026). *Humanoids at Schaeffler*. Public investor/technology presentation. https://www.schaeffler.com/remotemedien/media/_shared_media_rwd/08_investor_relations/presentations/20260205_humanoids_at_schaeffler.pdf
-
+27. Schaeffler AG (2026). *Humanoids at Schaeffler*. Public investor/technology presentation. https://www.schaeffler.com/remotemedien/media/_shared_media_rwd/08_investor_relations/presentations/20260205_humanoids_at_schaeffler.pdf
 ---
 
 ## Nota de alcance, propiedad intelectual y transparencia
