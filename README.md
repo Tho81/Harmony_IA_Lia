@@ -77,6 +77,15 @@ La literatura 2025–2026 está convergiendo hacia una piel robótica de gran su
 
 Ver: [Technology Watch 2026 · La piel robótica deja de ser una carcasa](docs/11_TECH_WATCH_SENSOR_SKIN_2026.md).
 
+
+### Artículo público 02 · Adaptive Palm 2032–2035
+
+La segunda publicación técnica de la rama pública estudia la **palma como subsistema sensoriomotor activo**, en lugar de asumirla como una placa rígida entre muñeca y dedos. La propuesta integra palma reconfigurable, oposición del pulgar, compliance espacialmente distribuida, tacto de gran cobertura, control de deslizamiento y fuerza, materiales híbridos y una arquitectura de control por capas.
+
+El artículo sintetiza evidencia científica 2023–2026, formula hipótesis falsables y propone comparar **Fixed Palm vs Passive Compliant Palm vs Active Adaptive Palm** usando benchmarks y métricas de agarre, contacto, energía, fatiga y mantenibilidad.
+
+Leer: [Adaptive Palm 2032–2035 · ES](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md) · [EN](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md).
+
 ### Cómputo, memoria y almacenamiento
 
 El cuerpo necesita también una infraestructura computacional proporcional a sus sensores y a la carga cognitiva. Como referencia pública de diseño proponemos **64 GB de RAM como mínimo práctico, 128 GB como baseline recomendado y 128–256 GB+ como margen futuro**, junto con **2 TB NVMe como mínimo y 4 TB recomendados**, ampliables a 8 TB+ en plataformas de I+D. El almacenamiento debe ser SSD NVMe, cifrado y con recuperación A/B. El control motor y de seguridad debe vivir en un dominio determinista separado del computador de IA.
@@ -150,7 +159,7 @@ No se aceptarán solicitudes de acceso a sistemas privados ni contribuciones que
 
 ### Palabras clave / discovery
 
-`humanoid robotics` · `embodied AI` · `electronic skin` · `e-skin` · `tactile sensing` · `proprioception` · `compliant actuation` · `dexterous manipulation` · `human robot interaction` · `HRI` · `Ti-6Al-4V` · `CFRP` · `synthetic skin` · `robot body schema` · `humanoid design` · `AI robotics`
+`humanoid robotics` · `embodied AI` · `electronic skin` · `e-skin` · `tactile sensing` · `proprioception` · `compliant actuation` · `dexterous manipulation` · `adaptive palm` · `reconfigurable palm` · `thumb opposition` · `whole-hand tactile sensing` · `grasp benchmarking` · `human robot interaction` · `HRI` · `Ti-6Al-4V` · `CFRP` · `synthetic skin` · `robot body schema` · `humanoid design` · `AI robotics`
 
 ---
 
