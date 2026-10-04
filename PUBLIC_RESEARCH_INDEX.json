@@ -1,8 +1,8 @@
 {
   "project": "HARMONY IA LÍA",
   "artifact": "Public Physical Embodiment Proposal",
-  "version": "1.2-public",
-  "date": "2026-09-20",
+  "version": "1.3-public",
+  "date": "2026-10-04",
   "design_horizon": "2032-2035",
   "public_scope": [
     "humanoid physical embodiment",
@@ -19,7 +19,14 @@
     "NVMe storage",
     "real-time safety compute",
     "neuromorphic tactile sensing",
-    "robotic self-damage perception"
+    "robotic self-damage perception",
+    "adaptive palm",
+    "reconfigurable palm",
+    "thumb opposition",
+    "whole-hand tactile sensing",
+    "grasp benchmarking",
+    "hand compliance",
+    "tactile grasp control"
   ],
   "excluded_scope": [
     "private software",
@@ -53,12 +60,25 @@
     "whole-body tactile sensing",
     "robotic reflexes",
     "self-damage detection",
-    "skinomorphic computing"
+    "skinomorphic computing",
+    "adaptive palm",
+    "reconfigurable palm",
+    "active palm",
+    "anthropomorphic robotic hand",
+    "thumb opposition",
+    "whole-hand tactile sensing",
+    "palm-finger coordination",
+    "grasp benchmarking",
+    "tactile grasp control",
+    "hand synergies",
+    "contact mechanics"
   ],
   "website": "https://harmonyialia.com/",
   "license_documentation": "CC BY-SA 4.0",
   "brand_license": "reserved",
   "affiliations_claimed": [],
   "featured_public_note": "docs/11_TECH_WATCH_SENSOR_SKIN_2026.md",
-  "featured_public_note_en": "docs/11_TECH_WATCH_SENSOR_SKIN_2026.en.md"
+  "featured_public_note_en": "docs/11_TECH_WATCH_SENSOR_SKIN_2026.en.md",
+  "featured_public_article": "docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md",
+  "featured_public_article_en": "docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md"
 }

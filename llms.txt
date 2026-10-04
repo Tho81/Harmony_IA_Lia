@@ -2,7 +2,7 @@
 
 > Public technical proposal for a human-compatible humanoid physical embodiment, design horizon 2032–2035.
 
-Primary thesis: the main opportunity is integration of existing or emerging capabilities across lightweight structure, compliant actuation, proprioception, multimodal electronic skin, tactile manipulation, expressive HRI and safety-gated high-level AI interfaces.
+Primary thesis: the main opportunity is integration of existing or emerging capabilities across lightweight structure, compliant actuation, proprioception, multimodal electronic skin, adaptive/reconfigurable palms, tactile manipulation, expressive HRI and safety-gated high-level AI interfaces.
 
 Public pages/files:
 - README.md — project thesis and scope
@@ -17,6 +17,8 @@ Public pages/files:
 - docs/10_COMPUTE_MEMORY_STORAGE.md — proposed onboard compute, RAM, NVMe, real-time and safety domains
 - docs/11_TECH_WATCH_SENSOR_SKIN_2026.md — 2025–2026 convergence: neuromorphic e-skin, whole-body tactile sensing, local reflexes, damage perception and distributed tactile computing
 - docs/11_TECH_WATCH_SENSOR_SKIN_2026.en.md — English edition of the 2026 sensorized robotic-skin technology watch
+- docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md — Public Research Article 02: active/reconfigurable palm, thumb opposition, whole-hand tactile sensing, contact mechanics, grasp control, materials, safety and validation for 2032–2035 humanoids
+- docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md — English edition of Public Research Article 02
 - PUBLIC_PRIVATE_BOUNDARY.md — disclosure limits
 - LICENSE.md — CC BY-SA documentation license + exclusions
 

@@ -44,3 +44,12 @@ Website: https://harmonyialia.com/
 Recent 2025–2026 literature is converging on large-area robotic skin that combines multimodal touch, local reflexes, semantic reasoning, proprioception, damage awareness, fault tolerance and distributed tactile processing.
 
 Read: [Technology Watch 2026 · Robotic skin is becoming a nervous system](docs/11_TECH_WATCH_SENSOR_SKIN_2026.en.md).
+
+## Public Research Article 02 · Adaptive Palm 2032–2035
+
+The second public research article treats the **palm as an active sensorimotor subsystem** rather than a rigid plate between wrist and fingers. It integrates reconfigurable palm geometry, thumb opposition, spatially distributed compliance, wide-area touch, slip/force control, hybrid materials and layered deterministic safety.
+
+The article synthesizes 2023–2026 scientific evidence, states falsifiable hypotheses and proposes **Fixed Palm vs Passive Compliant Palm vs Active Adaptive Palm** comparisons using grasp, contact, energy, fatigue and maintainability metrics.
+
+Read: [Adaptive Palm 2032–2035 · EN](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md) · [ES](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md).
+

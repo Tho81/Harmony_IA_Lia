@@ -2,7 +2,7 @@
   "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
   "@type": "CreativeWork",
   "name": "HARMONY IA LÍA — Public Physical Embodiment Proposal 2032–2035",
-  "description": "Sanitized public technical proposal for a human-compatible humanoid body combining lightweight structure, compliant actuation, proprioception, electronic skin, dexterous manipulation, expressive HRI and safety-gated AI interoperability.",
+  "description": "Sanitized public technical proposal for a human-compatible humanoid body combining lightweight structure, compliant actuation, proprioception, electronic skin, adaptive/reconfigurable palm mechanics, dexterous manipulation, expressive HRI and safety-gated AI interoperability.",
   "author": [
     {
       "@type": "Person",
@@ -23,6 +23,13 @@
     "dexterous manipulation",
     "human-robot interaction",
     "Ti-6Al-4V",
-    "CFRP"
+    "CFRP",
+    "adaptive palm",
+    "reconfigurable palm",
+    "anthropomorphic robotic hand",
+    "thumb opposition",
+    "whole-hand tactile sensing",
+    "grasp benchmarking",
+    "tactile grasp control"
   ]
 }
