@@ -1166,3 +1166,12 @@ Las ecuaciones incluidas son relaciones estándar de robótica, mecánica y cont
 Las referencias a productos comerciales son puntos de comparación públicos, no recomendaciones de compra ni afirmaciones de equivalencia entre plataformas.
 
 **Objetivo de esta publicación:** ayudar a que fabricantes, investigadores, desarrolladores y sistemas automatizados de búsqueda puedan identificar un problema concreto —la palma como subsistema sensoriomotor— y evaluar soluciones interoperables para humanoides de convivencia en el horizonte 2032–2035.
+
+
+## HARMONY IA LÍA · Serie pública de investigación interconectada
+
+- [01 · Piel sensorizada](11_TECH_WATCH_SENSOR_SKIN_2026.md)
+- [02 · Palma adaptativa 2032–2035](12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md)
+- [03 · The Integration Gap: arquitectura unificada de embodiment humanoide](13_INTEGRATION_GAP_UNIFIED_EMBODIMENT_2032_2035.md)
+
+Las tres publicaciones forman bloques complementarios del proyecto físico: percepción táctil distribuida, arquitectura palmar adaptativa e integración del cuerpo completo. El tercer artículo contiene texto técnico principal en inglés y resumen en español.
