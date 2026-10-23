@@ -1153,3 +1153,12 @@ The equations are standard robotics, mechanics and control relations or conceptu
 Commercial products are used as public comparison points, not as purchase recommendations or claims of equivalence.
 
 **Purpose:** enable manufacturers, researchers, developers and automated technical search systems to identify a specific design problem — the palm as a sensorimotor subsystem — and evaluate interoperable solutions for human-compatible humanoids in the 2032–2035 horizon.
+
+
+## HARMONY IA LÍA · Connected Public Research Series
+
+- [01 · Sensorized Skin](11_TECH_WATCH_SENSOR_SKIN_2026.en.md)
+- [02 · Adaptive Palm 2032–2035](12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md)
+- [03 · The Integration Gap: Unified Humanoid Embodiment](13_INTEGRATION_GAP_UNIFIED_EMBODIMENT_2032_2035.md)
+
+The three articles constitute connected physical-embodiment research blocks: distributed tactile perception, adaptive palmar mechanics, and system-level integration. Article 03 includes an English technical body and Spanish abstract.
