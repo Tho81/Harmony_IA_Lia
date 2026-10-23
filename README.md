@@ -164,3 +164,12 @@ No se aceptarán solicitudes de acceso a sistemas privados ni contribuciones que
 ---
 
 © 2026 Dr. Nelson Marcial Rivera Torrez · HARMONY IA LÍA. Public technical proposal. Third-party marks belong to their respective owners.
+
+
+## HARMONY IA LÍA · Serie pública de investigación interconectada
+
+- [01 · Piel sensorizada](docs/11_TECH_WATCH_SENSOR_SKIN_2026.md)
+- [02 · Palma adaptativa 2032–2035](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md)
+- [03 · The Integration Gap: arquitectura unificada de embodiment humanoide](docs/13_INTEGRATION_GAP_UNIFIED_EMBODIMENT_2032_2035.md)
+
+Las tres publicaciones forman bloques complementarios del proyecto físico: percepción táctil distribuida, arquitectura palmar adaptativa e integración del cuerpo completo. El tercer artículo contiene texto técnico principal en inglés y resumen en español.
