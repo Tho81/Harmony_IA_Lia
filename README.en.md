@@ -53,3 +53,12 @@ The article synthesizes 2023–2026 scientific evidence, states falsifiable hypo
 
 Read: [Adaptive Palm 2032–2035 · EN](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md) · [ES](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md).
 
+
+
+## HARMONY IA LÍA · Connected Public Research Series
+
+- [01 · Sensorized Skin](docs/11_TECH_WATCH_SENSOR_SKIN_2026.en.md)
+- [02 · Adaptive Palm 2032–2035](docs/12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md)
+- [03 · The Integration Gap: Unified Humanoid Embodiment](docs/13_INTEGRATION_GAP_UNIFIED_EMBODIMENT_2032_2035.md)
+
+The three articles constitute connected physical-embodiment research blocks: distributed tactile perception, adaptive palmar mechanics, and system-level integration. Article 03 includes an English technical body and Spanish abstract.
