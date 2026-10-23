@@ -168,3 +168,12 @@ Publishing this architecture has one purpose: **to make the integration target v
 This document compares public research literature with the public physical-embodiment thesis of HARMONY IA LÍA. It does not claim affiliation with any cited author, university, journal or company, and it discloses no private software, cognition architecture, personal data, datasets, voices, prompts, credentials or proprietary implementation methods.
 
 The date of a scientific publication should be distinguished from the date of a media report. The September 2026 Gizmodo story discusses research originally published in December 2025.
+
+
+## HARMONY IA LÍA · Connected Public Research Series
+
+- [01 · Sensorized Skin](11_TECH_WATCH_SENSOR_SKIN_2026.en.md)
+- [02 · Adaptive Palm 2032–2035](12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.en.md)
+- [03 · The Integration Gap: Unified Humanoid Embodiment](13_INTEGRATION_GAP_UNIFIED_EMBODIMENT_2032_2035.md)
+
+The three articles constitute connected physical-embodiment research blocks: distributed tactile perception, adaptive palmar mechanics, and system-level integration. Article 03 includes an English technical body and Spanish abstract.
