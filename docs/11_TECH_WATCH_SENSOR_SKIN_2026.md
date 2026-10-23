@@ -177,3 +177,12 @@ Si en los próximos años los distintos equipos compiten por resolver mejor cada
 Este documento compara literatura pública con la tesis pública de embodiment físico de HARMONY IA LÍA. No afirma afiliación con los autores, universidades, revistas o empresas citadas. Tampoco publica software privado, arquitectura cognitiva interna, datos personales, datasets, voces, prompts, credenciales ni metodologías propietarias.
 
 La fecha de publicación de una referencia científica debe distinguirse de la fecha en que un medio de comunicación la divulga. El reportaje de Gizmodo de septiembre de 2026 comenta un trabajo científico publicado originalmente en diciembre de 2025.
+
+
+## HARMONY IA LÍA · Serie pública de investigación interconectada
+
+- [01 · Piel sensorizada](11_TECH_WATCH_SENSOR_SKIN_2026.md)
+- [02 · Palma adaptativa 2032–2035](12_ADAPTIVE_PALM_HUMANOID_GRASPING_2032_2035.md)
+- [03 · The Integration Gap: arquitectura unificada de embodiment humanoide](13_INTEGRATION_GAP_UNIFIED_EMBODIMENT_2032_2035.md)
+
+Las tres publicaciones forman bloques complementarios del proyecto físico: percepción táctil distribuida, arquitectura palmar adaptativa e integración del cuerpo completo. El tercer artículo contiene texto técnico principal en inglés y resumen en español.
